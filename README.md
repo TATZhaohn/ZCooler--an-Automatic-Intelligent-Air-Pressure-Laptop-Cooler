@@ -5,7 +5,7 @@
 
 PCB设计请移步至嘉立创开源平台：https://oshwhub.com/tatzhao/bi-ji-ben-san-re-qi-2-0
 
-机械建模设计请移步至Bamboo Lab：待更新
+机械建模设计请移步至Bamboo Lab：https://makerworld.com/zh/models/1800144-zcooler-zhi-neng-bi-ji-ben-feng-ya-shi-san-re-qi-2
 
 ---
 
